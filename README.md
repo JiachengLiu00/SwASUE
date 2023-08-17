@@ -59,6 +59,6 @@ For any enquiries, please contact the main authors.
 
 ## License
 
-This toolkit is released under the MIT license. Please see the [LICENSE]() file for more information.
+This toolkit is released under the MIT license. Please see the [LICENSE](https://github.com/JiachengLiu00/SwASUE/blob/main/LICENSE) file for more information.
 
 
