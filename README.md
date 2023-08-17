@@ -24,7 +24,7 @@ The following files need to be adapted in order to run the code on your own mach
 Our experimental evaluation includes the following datasets: CIFAR10, CIFAR100-20, STL10 and ImageNet. The ImageNet dataset should be downloaded separately and saved to the path described in `utils/mypath.py`. Other datasets will be downloaded automatically and saved to the correct path when missing.
 
 ### Train model
-The configuration files can be found in the `configs/` directory. The training procedure consists of the following steps:
+First, you need Start with a pre-training task. The configuration files can be found in the `configs/` directory. The training procedure consists of the following steps:
 - __STEP 1__: Solve the pretext task i.e. `simclr.py`
 - __STEP 2__: Perform the clustering step i.e. `scan.py`
 - __STEP 3__: Perform the self-labeling step i.e. `selflabel.py`
@@ -35,6 +35,11 @@ python simclr.py --config_env configs/your_env.yml --config_exp configs/pretext/
 python scan.py --config_env configs/your_env.yml --config_exp configs/scan/scan_cifar10.yml
 python selflabel.py --config_env configs/your_env.yml --config_exp configs/selflabel/selflabel_cifar10.yml
 ```
+Then you can run SwASUE:
+```shell
+python main.py 
+```
+
 
 ## Citation
 
