@@ -6,8 +6,8 @@
 The code runs with recent Pytorch versions, e.g. 1.4. 
 Assuming [Anaconda](https://docs.anaconda.com/anaconda/install/), the most important packages can be installed as:
 ```shell
-conda create --name typiclust python=3.7
-conda activate typiclust
+conda create --name SwASUE python=3.7
+conda activate SwASUE
 conda install pytorch torchvision torchaudio cudatoolkit=<CUDA_VERSION> -c pytorch
 conda install matplotlib scipy scikit-learn pandas
 conda install -c conda-forge faiss-gpu
@@ -38,7 +38,7 @@ python selflabel.py --config_env configs/your_env.yml --config_exp configs/selfl
 ```
 Then you can run SwASUE:
 ```shell
-python main.py 
+python main.py --config_env configs/your_env.yml --config_exp configs/selflabel/selflabel_cifar10.yml
 ```
 
 
