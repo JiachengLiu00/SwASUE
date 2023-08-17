@@ -1,0 +1,50 @@
+n01443537 Goldfish
+n01514668 Cock
+n01580077 Jay
+n01629819 European fire salamander
+n01641577 Bullfrog Rana catesbeiana
+n01667114 Mud turtle
+n01689811 Alligator lizard
+n01698640 American alligator
+n01729977 Green snake
+n01770081 Harvestman
+n01784675 Centipede
+n01806143 Peacock
+n01871265 Tusker
+n01872401 Echidna
+n01877812 Wallaby
+n01882714 Koala
+n01910747 Jellyfish
+n01914609 Sea anemone
+n01943899 Conch
+n01945685 Slug
+n01978455 Rock crab
+n02056570 King penguin
+n02071294 Killer whale
+n02085620 Chihuahua
+n02114548 White wolf
+n02119022 Red fox
+n02123045 Tabby
+n02128385 Leopard
+n02129165 Lion
+n02132136 Brown bear
+n02165105 Tiger beetle
+n02279972 Monarch
+n02328150 Angora
+n02391049 Zebra
+n02493509 Titi
+n02667093 Abaya
+n02676566 Acoustic guitar
+n02692877 Airship
+n02704792 Check
+n02788148 Bannister
+n02804414 Bassinet
+n02837789 Bikini
+n02859443 Boathouse
+n02939185 Caldron
+n03000134 Chainlink fence
+n03041632 Cleaver
+n03180011 Desktop computer
+n03676483 Lipstick
+n03680355 Loafer
+n02749479 Assault rifle
