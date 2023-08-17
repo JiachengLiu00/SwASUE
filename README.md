@@ -38,7 +38,7 @@ python selflabel.py --config_env configs/your_env.yml --config_exp configs/selfl
 
 ## Citation
 
-If you find this repo useful for your research, please consider citing our paper:
+This Repository makes use of the repository: [SCAN]([https://github.com/wvangansbeke/Unsupervised-Classification]) Please consider citing their work and ours:
 
 ```bibtex
 @inproceedings{vangansbeke2020scan,
