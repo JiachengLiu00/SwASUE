@@ -3,7 +3,7 @@
 
 
 ## Installation
-The code runs with recent Pytorch versions, e.g. 1.4. 
+The code runs with recent Pytorch versions, e.g. 3.7. 
 Assuming [Anaconda](https://docs.anaconda.com/anaconda/install/), the most important packages can be installed as:
 ```shell
 conda create --name SwASUE python=3.7
